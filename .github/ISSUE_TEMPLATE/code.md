@@ -10,9 +10,12 @@ DELETE THIS TEXT AFTER READING: the following is an example, please edit.
 Delete anything that doesn't apply. Add stuff. No text longer than an old-school
 tweet (ish).  Reading is hard for Sarah, but structure text and code are easier.
 
-Who am I? 
-- fill in some way for Sarah to know who you are
+About me
+- fill in some way for Sarah to know who you are and get in touch
 
+Availability
+- Weekdays would be best (time flexible with a week+ notice)
+- Before 11a on most days (sometimes could do 1 hour ad hoc)
 
 My languages 
 - Rust: expert (I'm on the core team)
@@ -22,7 +25,7 @@ My languages
 - CSS: I can code in my sleep
 - C++: I've written desktop and server apps 
 
-Operating systems: 
+Operating systems
 - Mac dev  
 - Linux: I manage dozens of servers
 - Windows if I must
